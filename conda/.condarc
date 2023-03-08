@@ -1,0 +1,5 @@
+changeps1: true
+env_prompt: ({default_env})
+
+channels:
+  - defaults
